@@ -44,6 +44,7 @@
 - [LinkedIn](https://https://linkedin.com/in/nathalie-claude.mqe/)
 - [Portfolio](https://nathalie9410.github.io/)
 - [Email](nathalie9410@hotmail.com)
+- [CV](https://nathalie9410.github.io/assets/Resume_Nathalie_CLAUDE.pdf)
 
 ---
 
