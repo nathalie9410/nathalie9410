@@ -11,6 +11,16 @@
 
 ---
 
+![POWER BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TABLEAU](https://img.shields.io/badge/TABLEAU-3182bd?style=for-the-badge&logo=tableau&logoColor=white)
+![DATA VISUALIZATION](https://img.shields.io/badge/DATA%20VISUALIZATION-FFD700?style=for-the-badge&logo=visualstudio&logoColor=black)
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DATA ANALYSIS](https://img.shields.io/badge/DATA%20ANALYSIS-1f77b4?style=for-the-badge&logo=pandas&logoColor=white)
+![OPEN TO](https://img.shields.io/badge/OPEN%20TO-555555?style=for-the-badge)
+![OPPORTUNITIES](https://img.shields.io/badge/OPPORTUNITIES-00C853?style=for-the-badge)
+
+---
+
 ### 🌟 À propos de moi
 - ✨ **Reconversion réussie** du monde audiovisuel vers l’analyse de données
 - 📈 **Spécialisée en data marketing** : segmentation, ciblage, fidélisation
