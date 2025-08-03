@@ -7,21 +7,15 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/TABLEAU-3182bd?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-![POWER BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TABLEAU](https://img.shields.io/badge/TABLEAU-3182bd?style=for-the-badge&logo=tableau&logoColor=white)
-![DATA VISUALIZATION](https://img.shields.io/badge/DATA%20VISUALIZATION-FFD700?style=for-the-badge&logo=visualstudio&logoColor=black)
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DATA ANALYSIS](https://img.shields.io/badge/DATA%20ANALYSIS-1f77b4?style=for-the-badge&logo=pandas&logoColor=white)
-![OPEN TO](https://img.shields.io/badge/OPEN%20TO-555555?style=for-the-badge)
-![OPPORTUNITIES](https://img.shields.io/badge/OPPORTUNITIES-00C853?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Reporting-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Storytelling-3182bd?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-![POWER BI & TABLEAU](https://img.shields.io/badge/POWER%20BI%20%26%20TABLEAU-000000?style=for-the-badge&logo=datawrapper&logoColor=white)
+![Power BI & Tableau](https://img.shields.io/badge/Power%20BI%20%26%20Tableau-Data%20Visualization-yellow?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
