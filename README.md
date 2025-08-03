@@ -4,28 +4,17 @@
 
 ---
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
-
----
-
 ![Power BI & Tableau](https://img.shields.io/badge/Power%20BI%20%26%20Tableau-Data%20Storytelling%20%26%20Reporting-yellow?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
 
----
-
-![Power BI & Tableau](https://img.shields.io/badge/Power%20BI%20%26%20Tableau-Data%20Visualization-yellow?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
 
 ---
 
 ### 🌟 À propos de moi
 - ✨ **Reconversion réussie** du monde audiovisuel vers l’analyse de données
 - 📈 **Spécialisée en data marketing** : segmentation, ciblage, fidélisation
-- 🔍 **En évolution constante** : SQL, Power BI, Python, Dataiku
+- 🔍 **En évolution constante** : SQL, Power BI, Tableau, Python, Dataiku
 - 🤝 **Ouverte à de nouveaux projets** en data marketing, CRM ou analyse comportementale
 
 ---
@@ -33,7 +22,7 @@
 ### 🛠️ Compétences
 
 **Hard Skills :**
-- SQL, Power BI, Python (Pandas, NumPy)
+- SQL, Power BI, Tableau, Python (Pandas, NumPy)
 - Braze, Dataiku
 - Visualisation et storytelling de données
 
