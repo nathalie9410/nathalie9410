@@ -21,6 +21,10 @@
 
 ---
 
+![POWER BI & TABLEAU](https://img.shields.io/badge/POWER%20BI%20%26%20TABLEAU-000000?style=for-the-badge&logo=datawrapper&logoColor=white)
+
+---
+
 ### 🌟 À propos de moi
 - ✨ **Reconversion réussie** du monde audiovisuel vers l’analyse de données
 - 📈 **Spécialisée en data marketing** : segmentation, ciblage, fidélisation
