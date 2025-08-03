@@ -11,15 +11,12 @@
 ---
 
 ![Power BI & Tableau](https://img.shields.io/badge/Power%20BI%20%26%20Tableau-Data%20Storytelling%20%26%20Reporting-yellow?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
 
 ---
 
 ![Power BI & Tableau](https://img.shields.io/badge/Power%20BI%20%26%20Tableau-Data%20Visualization-yellow?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-3182bd?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
 
