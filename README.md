@@ -25,6 +25,13 @@
 
 ---
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-3182bd?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
+
+---
+
 ### 🌟 À propos de moi
 - ✨ **Reconversion réussie** du monde audiovisuel vers l’analyse de données
 - 📈 **Spécialisée en data marketing** : segmentation, ciblage, fidélisation
