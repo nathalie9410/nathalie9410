@@ -10,8 +10,7 @@
 
 ---
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Reporting-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Storytelling-3182bd?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI & Tableau](https://img.shields.io/badge/Power%20BI%20%26%20Tableau-Data%20Storytelling%20%26%20Reporting-yellow?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
